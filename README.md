@@ -1,6 +1,6 @@
-# LadySnake-2.0
+# LadySnake
 
-Course Project for 526.
+Course Project for CSCI526.
 
 Game Website: https://yinghui-hao.github.io
 
