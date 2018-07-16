@@ -6,6 +6,8 @@ Game Website: https://yinghui-hao.github.io
 
 Related Link: [Learn Git](https://www.atlassian.com/git/tutorials/syncing) / [Linux Command](http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands)
 
+![alt tag](https://raw.githubusercontent.com/Yinghui-Hao/yinghui-hao.github.io/master/images/poster.png "Game Poster")
+
 ---
 
 ### Standard for coding
