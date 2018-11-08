@@ -1,12 +1,6 @@
 # LadySnake
 
-Course Project for CSCI526.
-
-Game Website: https://yinghui-hao.github.io
-
-Related Link: [Learn Git](https://www.atlassian.com/git/tutorials/syncing) / [Linux Command](http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands)
-
-![alt tag](https://raw.githubusercontent.com/pipiyby/LadySnake/master/Screen%20Shot%202018-07-16%20at%201.46.19%20AM.png "Game Poster")
+Course Project.
 
 ---
 
@@ -23,14 +17,6 @@ Related Link: [Learn Git](https://www.atlassian.com/git/tutorials/syncing) / [Li
 > Branch is like different version of the code. We normally use *master* branch as the major and no-bug version code base for demo/present, and *devel-qa* as the testing and quality assurance branch for team leader/code reviewer to merge code from different members to do the test.
 
 For different team member, you should have your own branch:
-
-| Member  | Branch |
-|---------|--------|
-| Yinghui Hao | [haoyinghui](https://github.com/yinghuihao/LadySnake-2.0/tree/haoyinghui)|
-| Boyang Yu | [boyangyu](https://github.com/yinghuihao/LadySnake-2.0/tree/boyangyu) |
-| Ruoyi Jia | [ruoyijia](https://github.com/yinghuihao/LadySnake-2.0/tree/ruoyijia) |
-| Ying Liu | [yingliu](https://github.com/yinghuihao/LadySnake-2.0/tree/yingliu)|
-| Buoyan T |[buoyant](https://github.com/yinghuihao/LadySnake-2.0/tree/boyant)|
 
 #### Steps to set up your own Branch:
 
